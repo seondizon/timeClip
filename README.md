@@ -10,7 +10,7 @@ Clone repo syempre! Naunsa na tog ka?
 git clone https://github.com/seondizon/timeClip.git timeClip
 ```
 
-On 'popup.html' replace <link here> with your lanex timesheet link. Katong in out ni Lehi ba.
+On 'popup.html' replace "link here" with your lanex timesheet link. Katong in out ni Lehi ba.
 
 ```bash
 <p><a href="<link here>" id="linkId123" target="_blank" >Timesheet</a></p>
