@@ -1,6 +1,6 @@
 # Timelclip
 
-Pare di ka kalimot time ug out.
+Para di ka kalimot time in ug out Rico Boy XD
 
 ## Installation
 
