@@ -24,4 +24,4 @@ Turn on developer mode. Because. ( upper right side )
 
 ## Usage
 
-Click "In" or "Out". A 24hr time will be copied on clipboard. A fucking pop up window will pop up window remind you for your timesheet. Bitch!
+Click "In" or "Out". A 24hr time will be copied to clipboard. A fucking pop up window will pop up window remind your timesheet. Mitch!
