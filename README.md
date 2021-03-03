@@ -4,6 +4,12 @@ Para di ka kalimot time in ug out Rico Boy XD
 
 ## Installation
 
+Clone repo syempre! Naunsa na tog ka?
+
+```bash
+git clone https://github.com/seondizon/timeClip.git timeClip
+```
+
 On 'popup.html' replace <link here> with your lanex timesheet link. Katong in out ni Lehi ba.
 
 ```bash
