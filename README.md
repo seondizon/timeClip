@@ -10,7 +10,7 @@ On 'popup.html' replace <link here> with your lanex timesheet link. Katong in ou
 <p><a href="<link here>" id="linkId123" target="_blank" >Timesheet</a></p>
 ```
 
-On browser go to <a target="_blank" href="chrome://extensions">chrome://extensions</a>
+On browser go to <a href="chrome://extensions" target="_blank" >chrome://extensions</a>
 
 ```bash
 chrome://extensions
